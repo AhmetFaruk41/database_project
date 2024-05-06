@@ -1,7 +1,3 @@
-<img width="1470" alt="Ekran_Resmi_2024-05-06_12 24 37" src="https://github.com/AhmetFaruk41/database_project/assets/119080744/a1178a26-8198-4de1-b63b-daa4359e28b1"># Veritabanı Sistemleri Projesi
-Proje Detayları
-Bu proje, bir e-ticaret sitesinin veritabanı yapısını ve işleyişini detaylı bir şekilde ele almaktadır. Proje, kullanıcıların ürünleri görüntüleyebileceği detaylı bilgilerine erişebileceği, sepete ekleyebileceği ve çevrimiçi bir şekide satın alma işlemlerini gerçekleştirebileceği bir platformu hedeflemektedir. Ayrıca son derece güvenlikli satın alma,kayıt olma ve giriş yapma imkanı sunar. 
-
 # Teknolojiler
 Proje, Db SQLite veritabanı yönetim sistemi ve Python programlama dili kullanılarak geliştirilmiştir. Bu teknolojiler, projenin gereksinimlerini karşılamak üzere seçilmiştir. Ayrıca projemizde ön yüz tasarımı için HTML, CSS gibi arayüz tasarlamak için işaretleme dillerini kullandık. Veritabanını dizayn ederken görsel veri desteği sunan DbVisualiser teknolojisini kullandık. 
 
